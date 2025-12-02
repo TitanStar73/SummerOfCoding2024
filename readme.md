@@ -1,7 +1,7 @@
 # Summer of Coding Projects
 
 
-## Technical Projects
+## Technical Projects' Repository Links:
 
 | Project | Domain | Key Features |
 | :--- | :--- | :--- |
@@ -10,7 +10,7 @@
 | **[CoolUtils](https://github.com/TitanStar73/coolutils)** | 📦 **Library** | Python utility library to simplify push notifications, databases, retry decorators and data plotting. |
 
 ##
-## 🎮 Game Collection
+## 🎮 Game Collection Repository Links: 
 
 [![Wordle](https://img.shields.io/badge/Play-Wordle-green?style=for-the-badge)](https://github.com/TitanStar73/wordle) [![Connect4](https://img.shields.io/badge/Play-Connect_4-red?style=for-the-badge)](https://github.com/TitanStar73/connect4) [![RPS](https://img.shields.io/badge/Play-Rock_Paper_Scissors_AI-orange?style=for-the-badge)](https://github.com/TitanStar73/rockpaperscissors) <br />
 [![Hangman](https://img.shields.io/badge/Play-Hangman-blue?style=for-the-badge)](https://github.com/TitanStar73/hangman) [![Boggle](https://img.shields.io/badge/Play-Boggle-yellow?style=for-the-badge)](https://github.com/TitanStar73/boggle) [![TicTacToe](https://img.shields.io/badge/Play-Tic_Tac_Toe-lightgrey?style=for-the-badge)](https://github.com/TitanStar73/tic-tac-toe)
